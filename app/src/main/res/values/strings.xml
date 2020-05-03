@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Listado</string>
+    <string-array name="genres">
+        <item>Aventura</item>
+        <item>Peleas</item>
+        <item>Horror</item>
+        <item>Plataformas</item>
+        <item>Rompecabezas</item>
+        <item>Carreras</item>
+        <item>RPG</item>
+        <item>Ritmo</item>
+        <item>Disparos</item>
+        <item>Deportes</item>
+        <item>Estrategia</item>
+    </string-array>
+    <string name="instructions">Ingresa los datos de los elementos a agregar</string>
+    <string name="title">Título</string>
+    <string name="platform">Plataforma</string>
+    <string name="year">Año</string>
+    <string name="add">Añadir</string>
+    <string name="view_list">Ver listado</string>
+    <string name="delete_list">Borrar listado</string>
+    <string name="title_tv">Título: %1$s</string>
+    <string name="platform_tv">Plataforma: %1$s</string>
+    <string name="year_tv">Año: %1$s</string>
+    <string name="toast_id">El id del elemento es: %1$s</string>>
+    <string name="error_empty">Este campo no puede estar vacío</string>
+    <string name="error_invalid">Caracteres inválidos</string>
+    <string name="error_year">Año inválido</string>
+    <string name="array_error">Listado vacío</string>
+    <string name="element_succes">Elemento agregado</string>
+</resources>

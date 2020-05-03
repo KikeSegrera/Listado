@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Listado</string>
+    <string-array name="genres">
+        <item>Adventure</item>
+        <item>Fighting</item>
+        <item>Horror</item>
+        <item>Platformer</item>
+        <item>Puzzle</item>
+        <item>Racing</item>
+        <item>RPG</item>
+        <item>Rhythm</item>
+        <item>Shooter</item>
+        <item>Sports</item>
+        <item>Strategy</item>
+    </string-array>
+    <string name="instructions">Enter the data of the elements to add</string>
+    <string name="title">Title</string>
+    <string name="platform">Platform</string>
+    <string name="year">Year</string>
+    <string name="add">Add</string>
+    <string name="view_list">View list</string>
+    <string name="delete_list">Delete list</string>
+    <string name="title_tv">Title: %1$s</string>
+    <string name="platform_tv">Plataform: %1$s</string>
+    <string name="year_tv">Year: %1$s</string>
+    <string name="toast_id">The id of the element is: %1$s</string>>
+    <string name="error_empty">Field cannot be empty</string>
+    <string name="error_invalid">Invalid characters</string>
+    <string name="error_year">Invalid year</string>
+    <string name="array_error">List empty</string>
+    <string name="element_succes">Element added</string>
+</resources>
